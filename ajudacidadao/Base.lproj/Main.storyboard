@@ -9,7 +9,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Filmes-->
+        <!--Ocorrencias-->
         <scene sceneID="DhR-y7-053">
             <objects>
                 <tableViewController id="ezc-fP-Fqk" customClass="RegistrosTableViewController" customModule="ajudacidadao" customModuleProvider="target" sceneMemberID="viewController">
@@ -69,7 +69,7 @@
                             <outlet property="delegate" destination="ezc-fP-Fqk" id="mB8-VI-JXl"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Filmes" id="KAe-xS-rfM">
+                    <navigationItem key="navigationItem" title="Ocorrencias" id="KAe-xS-rfM">
                         <barButtonItem key="rightBarButtonItem" style="plain" systemItem="add" id="B5b-FC-GoN">
                             <connections>
                                 <segue destination="Lju-tc-zCZ" kind="show" id="Y56-uZ-Yw6"/>
