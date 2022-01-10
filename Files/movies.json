@@ -1,0 +1,18 @@
+[
+	{
+		"title":"Vingadores: Guerra Infinite",
+		"categories":"Action, Adventure, Fantasy",
+		"duration":"2h 29min",
+		"rating":8.8,
+		"summary":"Some text to describe the movie plot",
+		"image":"avengers",
+	},
+		{
+		"title":"Deadpool 2",
+		"categories":"Action, Adventure, Fantasy",
+		"duration":"1h 59min",
+		"rating":8.1,
+		"summary":"Any text here",
+		"image":"deadpool2",
+	},
+]
